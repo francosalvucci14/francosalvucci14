@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'am a Computer Science Student, in University of Rome Tor Vergata
+
+I'am:
+- Algorithm Lover
+- Cat and Dog Lover
+- And much more...
+
+📫 How to reach me:
+- Check my personal web site, build with GitHub Pages and Hugo framework
+- Check my Instagram Link
+
+⚡ Fun fact: I started using linux, to be precise the OS Pop_Os!, right here, at the university
+
