@@ -23,7 +23,7 @@ I'am:
 - And much more...
 
 📫 How to reach me:
-- Check my personal web site, build with GitHub Pages and Hugo framework
+- Check my [personal web site](https://francosalvucci14.github.io/), build with GitHub Pages and Hugo framework
 - Check my Instagram Link
 
 ⚡ Fun fact: I started using linux, to be precise the OS Pop_Os!, right here, at the university
