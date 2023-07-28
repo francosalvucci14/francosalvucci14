@@ -30,4 +30,5 @@ I'am:
 
 ⚡ Fun fact: I started using linux, to be precise the OS Pop_Os!, right here, at the university
 
-> Everything is representable as a graph
+>Cit.
+Everything is representable as a graph
