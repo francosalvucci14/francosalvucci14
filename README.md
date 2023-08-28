@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'am a Computer Science Student, in University of Rome Tor Vergata
+Hi, I am a Computer Science Student, in University of Rome Tor Vergata
 
-I'am:
-- Algorithm & Programming Lover
-- Cat and Dog Lover
+I am:
+- An Algorithm & Programming Lover
+- A Cat and Dog Lover
 - And much more...
 
 📫 How to reach me:
