@@ -26,7 +26,7 @@ I am:
 - Check my [personal web site](https://francosalvucci14.github.io/), build with GitHub Pages and Hugo framework
 - Check my [Instagram](https://www.instagram.com/franco.salvucci.9/)
 
-🔭 I’m currently working on: [WebScraper](https://github.com/francosalvucci14/RealEstateDataAnalysis)
+<!--🔭 I’m currently working on: [WebScraper](https://github.com/francosalvucci14/RealEstateDataAnalysis)-->
 
 ⚡ Fun fact: I started using linux, to be precise the OS Pop_Os!, right here, at the university
 
