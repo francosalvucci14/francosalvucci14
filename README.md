@@ -27,7 +27,7 @@ I am:
 - Check my [Instagram](https://www.instagram.com/franco.salvucci.9/)
 
 <!--🔭 I’m currently working on: [WebScraper](https://github.com/francosalvucci14/RealEstateDataAnalysis)-->
-- 🔭 I’m currently working on : [TelegramBot](https://github.com/francosalvucci14/Lab25a-TG-bot)
+🔭 I’m currently working on : [TelegramBot](https://github.com/francosalvucci14/Lab25a-TG-bot)
 
 ⚡ Fun fact: I started using linux, to be precise the OS Pop_Os!, right here, at the university
 
