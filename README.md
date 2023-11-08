@@ -31,6 +31,8 @@ I am:
 
 ⚡ Fun fact: I started using linux, to be precise the OS Pop_Os!, right here, at the university
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosalvucci14&layout=compact&hide=Jupyter%20Notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 Cit.
 
 > Everything is representable as a graph
