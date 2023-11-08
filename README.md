@@ -31,7 +31,7 @@ I am:
 
 ⚡ Fun fact: I started using linux, to be precise the OS Pop_Os!, right here, at the university
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosalvucci14&size_weight=0.5&count_weight=0.5&layout=donut&hide=HTML,RichFormatText&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosalvucci14&size_weight=0.5&count_weight=0.5&layout=donut&hide=HTML,RTF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Cit.
 
