@@ -38,7 +38,7 @@ I am:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=francosalvucci14&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francosalvucci14&size_weight=0&count_weight=1&hide=HTML,AMPL,Rich%20Text%20Format,Makefile&theme=dark&layout=default&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francosalvucci14&size_weight=0&count_weight=1&hide=HTML,AMPL,Rich%20Text%20Format,Makefile&theme=dark&layout=compact&card_width=320" />
 </a>
 
 Cit.
