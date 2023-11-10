@@ -44,5 +44,5 @@ I am:
 </a>
 
 Cit.
-dio proco
+
 > Everything is representable as a graph
