@@ -31,9 +31,9 @@ I am:
 
 ⚡ Fun fact: I started using linux, to be precise the OS Pop_Os!, right here, at the university
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosalvucci14&size_weight=0&count_weight=1&hide=HTML,AMPL,Rich%20Text%20Format&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosalvucci14&size_weight=0&count_weight=1&hide=HTML,AMPL,Rich%20Text%20Format&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francosalvucci14&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francosalvucci14&theme=transparent&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 Cit.
 
