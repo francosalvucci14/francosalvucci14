@@ -46,5 +46,3 @@ I am:
 Cit.
 
 > Everything is representable as a graph
-
-<img src="https://myreadme.vercel.app/api/embed/francosalvucci14?panels=userstatistics,toprepositories,toplanguages,commitgraph,theme=dark" alt="reimaginedreadme" />
