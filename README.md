@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am a Computer Science Student, in University of Rome Tor Vergata
+Hi, I am a Computer Science student at the University of Rome Tor Vergata 
 
 I am:
 - An Algorithm & Programming Lover
