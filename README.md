@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am a Computer Science student at the University of Rome Tor Vergata 
+Hi, I am a Computer Science student at the University of Rome Tor Vergata, graduated with a grade of 100/110.
 
 I am:
 - An Algorithm & Programming Lover
+- CyberSecurity Lover
 - A Cat and Dog Lover
 - And much more...
 
@@ -27,24 +28,25 @@ I am:
 - Check my [Instagram](https://www.instagram.com/franco.salvucci.9/)
 
 <!--🔭 I’m currently working on: [WebScraper](https://github.com/francosalvucci14/RealEstateDataAnalysis)-->
-🔭 I’m currently working on : [TelegramBot](https://github.com/francosalvucci14/Lab25a-TG-bot)
+<!--🔭 I’m currently working on : [TelegramBot](https://github.com/francosalvucci14/Lab25a-TG-bot)-->
+🌱 I’m currently learning:
+- Machine Learning
+- Distribuited Algorithm
+- Computer and Network Security
 
 ⚡ Fun fact: I started using linux, to be precise the OS Pop_Os! right here, at the university
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francosalvucci14&size_weight=0&count_weight=1&hide=HTML,AMPL,Rich%20Text%20Format,Makefile&theme=dark&layout=donut&card_width=320)](https://github.com/anuraghazra/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francosalvucci14&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Stats
+### My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=francosalvucci14&theme=dark&show_icons=true" />
 </a>
 
-### Top Languages
+### My Top Languages
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francosalvucci14&size_weight=0&count_weight=1&hide=HTML,AMPL,Rich%20Text%20Format,Makefile,Batchfile&theme=dark&layout=compact&card_width=320" />
 </a>
 
-Cit.
-
->[!important]- Everything is representable as a graph
