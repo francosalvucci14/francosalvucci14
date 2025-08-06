@@ -1,7 +1,7 @@
 ### Hi :)
 
-I have a three-year degree in Computer Science with a grade of 100/110.
-I am also a Computer Science Master's student at the University of Rome Tor Vergata.
+I have a Bachelor's degree in Computer Science with a final grade of 100/110.
+I am also a Master's student in Computer Science at the University of Rome Tor Vergata.
 
 Things I like:
 - Algorithm & Programming
