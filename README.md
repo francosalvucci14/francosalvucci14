@@ -31,7 +31,8 @@ I’m currently learning:
 
 ### My Top Languages
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francosalvucci14&size_weight=0&count_weight=1&hide=MATLAB,HTML,AMPL,Rich%20Text%20Format,Makefile,Batchfile,C%23,CSS,SCSS&theme=dark&layout=compact&card_width=320%22" />
+  <!--<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francosalvucci14&size_weight=0&count_weight=1&hide=MATLAB,HTML,AMPL,Rich%20Text%20Format,Makefile,Batchfile,C%23,CSS,SCSS&theme=dark&layout=compact&card_width=320%22" />-->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francosalvucci14&size_weight=0&count_weight=1&hide=MATLAB,HTML,AMPL,Rich%20Text%20Format,Makefile,Batchfile,C%23,CSS,SCSS,Lua,Prolog&theme=dark&layout=compact&card_width=320" />
 </a>
 <!--https://github-readme-stats.vercel.app/api/top-langs?username=francosalvucci14&size_weight=0&count_weight=1&hide=MATLAB,HTML,AMPL,Rich%20Text%20Format,Makefile,Batchfile,C%23,CSS,SCSS&theme=dark&layout=compact&card_width=320%22-->
 
